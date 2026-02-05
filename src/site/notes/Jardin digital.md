@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/jardin-digital/","tags":["gardenEntry"]}
 ---
 
-Ejemplo
-Este es un ejemplo
+## Hola
+Esta es la primera página a publicar
