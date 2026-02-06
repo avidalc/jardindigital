@@ -6,4 +6,4 @@ Mi certifiación en Neuro Change Practitioner [^1] me ha ayudado a entender que 
 
 
 
-[^1]: Neuro Change institute https://neurochangeinstitute.org
+[^1]: Neuro Change Institute https://neurochangeinstitute.org
