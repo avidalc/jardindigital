@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-digital/","tags":["gardenEntry"],"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/jardin-digital/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 ## Hola
