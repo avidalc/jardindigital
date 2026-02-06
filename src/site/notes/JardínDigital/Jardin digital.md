@@ -3,7 +3,7 @@
 ---
 
 ## Introducción
-En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [[JardínDigital/Cuidador\|Cuidador]] y de [[JardínDigital/Coach\|Coach]] [^1]. Cuido a mi madre que tiene Alzheimer, hace unos 4 años con cada vez mayor dedicación. Ha sido un desafío profundo en el que las herramientas de Coach me han servido y creo que pueden servirle a otras personas que cuidan.   
+En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [[JardínDigital/Cuidador\|Cuidador]] y de [[JardínDigital/Coach\|Coach]] [^1]. Cuido a mi madre que tiene Alzheimer[^1], hace unos 4 años con cada vez mayor dedicación. Ha sido un desafío profundo en el que las herramientas de Coach me han servido y creo que pueden servirle a otras personas que cuidan.   
 
 > [!warning] Advertencia
 > Toda la información en este sitio es de prueba. 
@@ -24,3 +24,5 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [
 { .block-language-dataview}
 
 [^1] de Neuro Change Institute https://neurochangeinstitute.org
+
+[^1]: Referencias Alzheimer
