@@ -15,9 +15,9 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [
 ### Archivos recientes
 | File                                                                                                | Fecha de modificación        |
 | --------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[JardínDigital/Drawing 2026-02-05 17.56.48.excalidraw\|Drawing 2026-02-05 17.56.48.excalidraw]] | 11:31 PM - February 05, 2026 |
-| [[JardínDigital/Coach\|Coach]]                                                                   | 11:55 PM - February 05, 2026 |
 | [[JardínDigital/Cuidador\|Cuidador]]                                                             | 12:05 AM - February 06, 2026 |
+| [[JardínDigital/Coach\|Coach]]                                                                   | 11:55 PM - February 05, 2026 |
+| [[JardínDigital/Drawing 2026-02-05 17.56.48.excalidraw\|Drawing 2026-02-05 17.56.48.excalidraw]] | 11:31 PM - February 05, 2026 |
 
 { .block-language-dataview}
 
