@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-digital/jardin-digital/","tags":["gardenEntry"],"dgHomeLink":true,"created":"2026-02-05T19:14:18.099-03:00"}
+{"dg-publish":true,"permalink":"/jardin-digital/jardin-digital/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowFileTree":true,"dgEnableSearch":true,"created":"2026-02-05T19:14:18.099-03:00"}
 ---
 
 ## Introducción
@@ -15,7 +15,7 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [
 ### Archivos recientes
 | File                                    | Fecha de modificación     |
 | --------------------------------------- | ------------------------- |
-| [[JardínDigital/Coach\|Coach]]       | 12:53 PM - March 05, 2026 |
+| [[JardínDigital/Coach\|Coach]]       | 12:55 PM - March 05, 2026 |
 | [[JardínDigital/Cuidador\|Cuidador]] | 12:53 PM - March 05, 2026 |
 
 { .block-language-dataview}
