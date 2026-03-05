@@ -10,7 +10,9 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [
 > Prontamente comenzaré a subir información de verdad.
 > 
 
+
 <vaticannews-widget lang="en" fontSize="14"></vaticannews-widget>
+<vaticannews-widget lang="es" fontSize="14"></vaticannews-widget>
 <script src="https://www.vaticannews.va/widget.js"></script>
 
 ### Archivos recientes
