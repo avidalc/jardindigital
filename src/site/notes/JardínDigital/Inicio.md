@@ -7,7 +7,7 @@ Si eres una persona que cuidas a tu familiar y necesitas ayuda ayuda para sobrel
 
 Soy Alejandro Vidal Córdova, cuido a mi madre con Alzheimer las 24 horas del día. Hace 4 años que convivo con los efectos de esta enfermedad en su etapa avanzada. En la foto la puedes ver, se llama Nora, mi alegría es cuando ella está feliz como en la fotografía.
 
-![[Con mim mamá 20260303.png \| 300]]
+![ConMiMamá20260303.png| 300](/img/user/ConMiMam%C3%A120260303.png)
 
 El equilibrio entre el cuidado, trabajo virtual, aseo, compras y mucho más. Es difícil, agotador y altamente exigente.  He tomado cursos, comprado libros, recursos, visto especialistas. Pero me he dado cuenta que he contado con un recurso que me ha ayudado a darme cuenta que esta labor requiere un cambio de mentalidad. Más allá de todo el amor que tengas por tu familiar, hay cosas que requieren ayuda externa. Esta es una de ellas.  
 
