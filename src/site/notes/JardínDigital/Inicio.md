@@ -7,7 +7,8 @@ Si eres una persona que cuidas a tu familiar y necesitas ayuda ayuda para sobrel
 
 Soy Alejandro Vidal Córdova, cuido a mi madre con Alzheimer las 24 horas del día, 6.5 días a la semana. Hace 4 años que convivo con los efectos de esta enfermedad en su etapa avanzada. 
 
- ![[ ConMiMamá20260303.png \| 300 ]]
+ ![ConMiMamá20260303.png|300](/img/user/ConMiMam%C3%A120260303.png)
+
 <center>
 Esta es mi mamá, se llama Nora. Su felicidad es mi felicidad.
 </center>
