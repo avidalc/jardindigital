@@ -26,6 +26,9 @@ Me he dado cuenta que esto no lo cubren o es muy distinto a vivirlo como curso, 
 
 En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [[Cuidador\|Cuidador]] y de [[JardínDigital/Coach\|Coach]] [^2]. Ha sido un desafío profundo en el que las herramientas de Coach me han servido y creo que pueden servirle a otras personas que cuidan.   
 
+>[!question] Si tienes dudas
+> Contáctame en  avidalc@gmail.com y podemos seguir conversando
+>
 
 > [!warning] Advertencia
 > No soy profesional de la salud ni psicólogo. Toda la información en este sitio son recomendaciones, reflexiones y aprendizajes desde mi experiencia como cuidador de mi madre con Alzheimer y mis conocimientos como Coach.
