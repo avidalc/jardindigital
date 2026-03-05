@@ -3,16 +3,13 @@
 ---
 
 ## Bienvenida y bienvenido
-Si eres una persona que cuidas a tu familiar y necesitas ayuda ayuda para sobrellevar la situación. Este sitio es para tí. 
+Si eres una persona que cuidas a tu familiar y necesitas ayuda  para sobrellevar la situación. Este sitio es para tí. 
 
 Soy Alejandro Vidal Córdova, cuido a mi madre con Alzheimer las 24 horas del día, 6.5 días a la semana. Hace 4 años que convivo con los efectos de esta enfermedad en su etapa avanzada. 
 
- ![ConMiMamá20260303.png|300](/img/user/ConMiMam%C3%A120260303.png)
-
-<center>
-Esta es mi mamá, se llama Nora. Su felicidad es mi felicidad.
-</center>
-
+>[!info] Esta es mi mamá
+> Se llama Nora y su felicidad es mi felicidad...
+> ![ConMiMamá20260303.png|300](/img/user/ConMiMam%C3%A120260303.png)
 
 El equilibrio entre el cuidado, trabajo virtual, aseo, compras y mucho más. Es difícil, agotador y altamente exigente.  He tomado cursos, comprado libros, recursos, visto especialistas. Pero me he dado cuenta que he contado con un recurso secreto que me ha llevado a darme cuenta que esta labor requiere un cambio de mentalidad. Más allá de todo el amor que tengas por tu familiar, hay cosas que requieren un trabajo interno. 
 
@@ -38,6 +35,7 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de C
 
 ### Artículos que se vienen
 > [!todo] 
+> * Síndrome del cuidador
 > * ¿Quién cuida al cuidador?
 > * Cuidar y ser cuidado
 
