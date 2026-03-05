@@ -5,7 +5,7 @@
 ## Bienvenida y bienvenido
 Si eres una persona que cuidas a tu familiar y necesitas ayuda ayuda para sobrellevar la situación. Este sitio es para tí. 
 
-Soy Alejandro Vidal Córdova, cuido a mi madre con Alzheimer las 24 horas del día. Hace 4 años que convivo con los efectos de esta enfermedad en su etapa avanzada. 
+Soy Alejandro Vidal Córdova, cuido a mi madre con Alzheimer las 24 horas del día, 6.5 días a la semana. Hace 4 años que convivo con los efectos de esta enfermedad en su etapa avanzada. 
 
  ![[ ConMiMamá20260303.png \| 300 ]]
 <center>
@@ -13,10 +13,18 @@ Esta es mi mamá, se llama Nora. Su felicidad es mi felicidad.
 </center>
 
 
+El equilibrio entre el cuidado, trabajo virtual, aseo, compras y mucho más. Es difícil, agotador y altamente exigente.  He tomado cursos, comprado libros, recursos, visto especialistas. Pero me he dado cuenta que he contado con un recurso secreto que me ha llevado a darme cuenta que esta labor requiere un cambio de mentalidad. Más allá de todo el amor que tengas por tu familiar, hay cosas que requieren un trabajo interno. 
 
-El equilibrio entre el cuidado, trabajo virtual, aseo, compras y mucho más. Es difícil, agotador y altamente exigente.  He tomado cursos, comprado libros, recursos, visto especialistas. Pero me he dado cuenta que he contado con un recurso que me ha ayudado a darme cuenta que esta labor requiere un cambio de mentalidad. Más allá de todo el amor que tengas por tu familiar, hay cosas que requieren ayuda externa. Esta es una de ellas.  
+Te cuento que una nuropsicóloga me dijo que esto era un duelo prolongado y en mi cabeza se grabó y visualizó una imagen de una sentencia ambigua. Sufriría por varios años, hasta la muerte de mi mamá. No te explico cómo lloraba todos los días y estaba desbordado hasta semana santa del 2024. Lo recuerdo porque después de años, pude asistir a un retiro, mi hermano[^1] se quedó con mi mamá ese día. El tema era el duelo. Luego de llorar y reclamarle mucho a Dios. Mi corazón se tranquilizó y pude dejar entrar un poco la esperanza.  En la semana tomé un curso [^3] en el que aprendí inmediatamente dónde estaba mi error en mi forma de pensar. 
 
-En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [[Cuidador\|Cuidador]] y de [[JardínDigital/Coach\|Coach]] [^1]. Ha sido un desafío profundo en el que las herramientas de Coach me han servido y creo que pueden servirle a otras personas que cuidan.   
+> [!tip]
+En vez de *sufrir* todos los días por lo que mi mamá ya no era, debía *celebrar* todos los días *lo que aún es"*
+
+Te puedo asegurar que físicamente se sintió distinto y fue una puerta abierta al cambio en mi forma de entender el cuidado e inconscientemente estaba aplicando prácticas de Coaching que trabajo con mis clientes. Cambiar Creencias y Mentalidad.
+
+Me he dado cuenta que esto no lo cubren o es muy distinto a vivirlo como curso, que tener un entrenador que te entienda y te acompañe en el proceso de implementar los cambios de mentalidad necesario para que te vivas con más calma el cuidado de tu familiar.
+
+En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [[Cuidador\|Cuidador]] y de [[JardínDigital/Coach\|Coach]] [^2]. Ha sido un desafío profundo en el que las herramientas de Coach me han servido y creo que pueden servirle a otras personas que cuidan.   
 
 
 > [!warning] Advertencia
@@ -25,5 +33,6 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [
 
 
 
-[^1]: de Neuro Change Institute https://neurochangeinstitute.org
-
+[^1]: Mi hermano, me cuida a mi mamá una tarde a la semana la mayoría de las semanas.
+[^2]: de Neuro Change Institute https://neurochangeinstitute.org
+[^3]: Método Serena
