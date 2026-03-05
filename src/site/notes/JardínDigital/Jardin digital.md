@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/jardin-digital/jardin-digital/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"created":"2026-02-05T19:14:18.099-03:00"}
 ---
 
-## Introducción2
+## Introducción
 En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [[JardínDigital/Cuidador\|Cuidador]] y de [[JardínDigital/Coach\|Coach]] [^1]. Cuido a mi madre que tiene Alzheimer[^2], hace unos 4 años con cada vez mayor dedicación. Ha sido un desafío profundo en el que las herramientas de Coach me han servido y creo que pueden servirle a otras personas que cuidan.   
 
 > [!warning] Advertencia
@@ -10,7 +10,7 @@ En este sitio iré poniendo notas que quiero compartir sobre mi experiencia de [
 > Prontamente comenzaré a subir información de verdad.
 > 
 
-
+ 
 <vaticannews-widget lang="en" fontSize="14"></vaticannews-widget>
 <vaticannews-widget lang="es" fontSize="14"></vaticannews-widget>
 <script src="https://www.vaticannews.va/widget.js"></script>
