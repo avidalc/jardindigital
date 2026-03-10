@@ -11,7 +11,7 @@ Soy Alejandro Vidal Córdova, cuido a mi madre con Alzheimer las 24 horas del d�
 > Se llama Nora y su felicidad es mi felicidad...
 > ![ConMiMamá20260303.png|300](/img/user/ConMiMam%C3%A120260303.png)
 
-El equilibrio entre el cuidado, trabajo virtual, aseo, compras y mucho más. Es difícil, agotador y altamente exigente.  He tomado cursos, comprado libros, recursos, visto especialistas. Pero me he dado cuenta que he contado con un recurso secreto que me ha llevado a darme cuenta que esta labor requiere un cambio de mentalidad. Más allá de todo el amor que tengas por tu familiar, hay cosas que requieren un trabajo interno. 
+El equilibrio entre el cuidado altamente demandante, trabajo virtual, aseo, compras y mucho más. Es difícil, agotador y altamente exigente.  He tomado cursos, comprado libros, recursos, visto especialistas. Pero me he dado cuenta que he contado con un recurso secreto que me ha llevado a darme cuenta que esta labor requiere un cambio de mentalidad. Más allá de todo el amor que tengas por tu familiar, hay cosas que requieren un trabajo interno. 
 
 Te cuento que una nuropsicóloga me dijo que esto era un duelo prolongado y en mi cabeza se grabó y visualizó una imagen de una sentencia ambigua. Sufriría por varios años, hasta la muerte de mi mamá. No te explico cómo lloraba todos los días y estaba desbordado hasta semana santa del 2024. Lo recuerdo porque después de años, pude asistir a un retiro, mi hermano[^1] se quedó con mi mamá ese día. El tema era el duelo. Luego de llorar y reclamarle mucho a Dios. Mi corazón se tranquilizó y pude dejar entrar un poco la esperanza.  En la semana tomé un curso [^2] en el que aprendí inmediatamente dónde estaba mi error en mi forma de pensar. 
 
